@@ -1,6 +1,7 @@
 # Advanced Gesture Control System
 Welcome to the future of computer interaction with the Advanced Gesture Control System, a cutting-edge human-computer interface inspired by the world of cutting-edge technology. This GitHub repository is your gateway to harnessing the power of gesture-based computer control, offering an intuitive way to interact with your computer like never before.
 
+
 ## Introduction
 Step into the future where technology enables effortless computer interaction. The Advanced Gesture Control System empowers you to interact with your computer through natural hand gestures, offering a seamless and intuitive way to control your digital world.
 
@@ -12,28 +13,23 @@ Step into the future where technology enables effortless computer interaction. T
 To embark on your journey with the Advanced Gesture Control System and experience gesture-based computer control, follow these straightforward steps:
 
 #### Clone the Repository:
-
 ```
 git clone https://github.com/your-username/advanced-gesture-control.git
 ```
+
 #### Install Dependencies:
-
 Ensure you have Python installed and proceed to install the necessary libraries using pip:
-
 ```
 pip install -r requirements.txt
 ```
 
 #### Activate the System:
-
 Launch your terminal within the project directory and initiate the gesture control system:
-
 ```
 python gesture_control.py
 ```
 
 #### Embrace Gesture Control:
-
 Immerse yourself in this intuitive interface, gaining precise control of your computer using natural hand movements.
 
 
@@ -41,9 +37,7 @@ Immerse yourself in this intuitive interface, gaining precise control of your co
 The Advanced Gesture Control System employs advanced computer vision and the MediaPipe library to detect and track your hand movements. It captures real-time video from your webcam and processes it to achieve the following:
 
 * Recognition of key landmarks on your hand, including the positions of your thumb, index finger, and pinky finger.
-
 * Interpretation of your hand's configuration based on these landmarks, enabling the system to calculate distances and angles, thus deciphering your gestures with remarkable precision.
-
 * Execution of various actions such as clicking, scrolling, and moving the mouse pointer, all seamlessly initiated through specific hand gestures.
 
 ## Gesture Modes
