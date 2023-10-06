@@ -49,11 +49,9 @@ The Advanced Gesture Control System employs advanced computer vision and the Med
 ## Gesture Modes
 The Advanced Gesture Control System offers a range of intuitive gesture modes:
 
-Click Mode: Execute a left-click action by pinching your thumb and index finger together, facilitating easy interaction with digital elements.
-
-Scroll Mode: Activate scrolling by extending your pinky finger above your index finger. Move your hand up and down to scroll through content effortlessly.
-
-Move Mouse Mode: Take control of the mouse pointer's movement by extending only your index finger. Swiftly guide the pointer with your finger's precise movements.
+* Click Mode: Execute a left-click action by pinching your thumb and index finger together, facilitating easy interaction with digital elements.
+* Scroll Mode: Activate scrolling by extending your pinky finger above your index finger. Move your hand up and down to scroll through content effortlessly.
+* Move Mouse Mode: Take control of the mouse pointer's movement by extending only your index finger. Swiftly guide the pointer with your finger's precise movements.
 
 ## Requirements
 To fully embrace the potential of the Advanced Gesture Control System, ensure you have the following components at your disposal:
