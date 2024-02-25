@@ -26,7 +26,7 @@ pip install -r requirements.txt
 #### Activate the System:
 Launch your terminal within the project directory and initiate the gesture control system:
 ```
-python gesture_control.py
+python video_mouse.py
 ```
 
 #### Embrace Gesture Control:
